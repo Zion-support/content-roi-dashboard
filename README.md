@@ -1,26 +1,24 @@
 # Content ROI Dashboard
 
-> Attribute pipeline and revenue to content across channels
+Attribute pipeline and revenue to content across channels so marketing can double down on what works.
 
-Attribute pipeline and revenue to content across channels.
-
-**Live:** https://ziontechgroup.com/content-roi-dashboard/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://zion-support.github.io/content-roi-dashboard/ · **GitHub:** https://github.com/Zion-support/content-roi-dashboard
 
 ## Features
-- Multi-touch attribution for content assets
-- Channel and campaign ROI comparisons
-- CRM opportunity influence mapping
-- Executive-ready monthly content reports
+- Multi-touch attribution to pipeline and revenue
+- Channel and format ROI comparison
+- Content decay and refresh alerts
 
 ## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Proposal Builder AI](https://github.com/Zion-support/proposal-builder-ai) — https://ziontechgroup.com/proposal-builder-ai/
-- [Expense Audit AI](https://github.com/Zion-support/expense-audit-ai) — https://ziontechgroup.com/expense-audit-ai/
-- [IT Asset Lifecycle Tracker](https://github.com/Zion-support/it-asset-lifecycle-tracker) — https://ziontechgroup.com/it-asset-lifecycle-tracker/
-- [SLA Forecast Guardian](https://github.com/Zion-support/sla-forecast-guardian) — https://ziontechgroup.com/sla-forecast-guardian/
-- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — https://ziontechgroup.com/support-deflection-analyzer/
-- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/
+- 🏠 Homepage: https://ziontechgroup.com
+- 🌐 App Showcase: https://zion-support.github.io/apps/
+- 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
+
+## Related apps
+- [SEO Content Optimizer](https://zion-support.github.io/seo-content-optimizer/)
+- [AI Caption Optimizer](https://zion-support.github.io/ai-caption-optimizer/)
+- [Partner Referral Tracker](https://zion-support.github.io/partner-referral-tracker/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group · [Book a Discovery Call](https://ziontechgroup.com/discovery/)
